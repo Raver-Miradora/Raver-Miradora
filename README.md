@@ -1,0 +1,8 @@
+- 👋 Aspiring front-end developer based in PH
+- 🎓 BS Information Technology undergraduate at Partido State University
+- 🛠 a handful of technologies and languages 
+  - HTML 
+  - CSS
+  - Javascript
+  - Bootstrap
+  - C++
