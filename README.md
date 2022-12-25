@@ -1,6 +1,6 @@
-- 😊 Aspiring full-stack developer based in PH
-- 🎓 BS Information Technology undergraduate at Partido State University
-- 🛠 a handful of technologies and languages 
+- 😊 Aspiring full-stack developer based in PH.
+- 🎓 BS Information Technology undergraduate at Partido State University.
+- 🛠 a handful of technologies and languages i used:
   - HTML 
   - CSS
   - Javascript
