@@ -2,18 +2,18 @@
 
 <h1 align="center">Hello there👋, I'm Raver Miradora</h1>
 <h3 align="center">An aspiring Full-Stack developer based in Ph.</h3>
-<img align="center" alt="Coding" width="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raver-miradora&label=Profile%20views&color=0e75b6&style=flat" alt="raver-miradora" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raver-miradora" alt="raver-miradora" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Figma and Discrete Mathematics**
+- 🌱 I’m currently learning **Bootstrap, Figma, and Discrete Mathematics**
 
-- 👨‍💻 All of my projects are available at [https://raver-miradora.github.io/portfolio-website/](https://raver-miradora.github.io/portfolio-website/)
+- 👨‍💻 Visit my portfolio website! [https://raver-miradora.github.io/portfolio-website/](https://raver-miradora.github.io/portfolio-website/)
 
-- 📫 How to reach me **ravermiradora0@gmail.com**
+- 📫 Contact me. **ravermiradora0@gmail.com**
 
 - ⚡ Fun fact, **I like turtles**
 
