@@ -28,7 +28,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raver-miradora" alt="raver-miradora" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raver-miradora&show_icons=true&locale=en&layout=compact" alt="raver-miradora" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raver-miradora&show_icons=true&locale=en" alt="raver-miradora" /></p>
 
