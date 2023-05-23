@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🎓 BS Information Technology undergraduate at <a href="https://www.parsu.edu.ph/">Partido State University</a>
-- 📘 I’m currently learning **OOP, Java, and Data Structures**
+- 📘 I’m currently learning **OOP, Java, and Data Structures and Algorithms**
 
 - 💻 Visit my portfolio website! [https://raver-miradora.github.io/portfolio-website/](https://raver-miradora.github.io/portfolio-website/)
 
