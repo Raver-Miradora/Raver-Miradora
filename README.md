@@ -11,7 +11,7 @@
 - 🎓 BS Information Technology undergraduate at <a href="https://www.parsu.edu.ph/">Partido State University</a>
 - 📘 I’m currently learning **OOP, Java, and Data Structures and Algorithms**
 
-- 💻 Visit my portfolio website! [https://raver-miradora.github.io/portfolio-website/](https://raver-miradora.github.io/portfolio-website/)
+- 💻 Visit my portfolio website! https://raver-miradora.github.io/Raver-Miradora-Resume/
 
 - 📫 Send me an email. **ravermiradora0@gmail.com**
 
